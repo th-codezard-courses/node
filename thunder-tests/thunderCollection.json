@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "c0c0331d-7989-44b5-95eb-722b22c350c1",
+    "colName": "products",
+    "created": "2022-05-10T01:58:23.465Z",
+    "sortNum": 10000,
+    "folders": []
+  },
+  {
+    "_id": "c5c982b9-0239-4644-8d05-8dc2b57cef96",
+    "colName": "orders",
+    "created": "2022-05-10T10:50:12.288Z",
+    "sortNum": 20000,
+    "folders": []
+  },
+  {
+    "_id": "7163e34c-2f47-467f-af0d-7bb2ea69aaac",
+    "colName": "categories",
+    "created": "2022-05-11T18:27:59.146Z",
+    "sortNum": 30000,
+    "folders": []
+  }
+]
